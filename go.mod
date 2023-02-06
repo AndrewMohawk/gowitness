@@ -37,9 +37,8 @@ require (
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/tidwall/btree v0.0.0-20170113224114-9876f1454cf0 // indirect
 	github.com/tidwall/buntdb v0.0.0-20170824144000-b67b1b8c1658
-	github.com/tidwall/gjson v1.0.1 // indirect
+	github.com/tidwall/gjson v1.9.3 // indirect
 	github.com/tidwall/grect v0.0.0-20161006141115-ba9a043346eb // indirect
-	github.com/tidwall/match v1.0.0 // indirect
 	github.com/tidwall/rtree v0.0.0-20160903213729-d4a8a3d30d57 // indirect
 	github.com/tomsteele/go-nmap v0.0.0-20181105160706-3b9bafddefee
 	golang.org/x/net v0.0.0-20190311183353-d8887717615a
