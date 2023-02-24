@@ -42,7 +42,7 @@ require (
 	github.com/tidwall/match v1.0.0 // indirect
 	github.com/tidwall/rtree v0.0.0-20160903213729-d4a8a3d30d57 // indirect
 	github.com/tomsteele/go-nmap v0.0.0-20181105160706-3b9bafddefee
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
+	golang.org/x/net v0.7.0
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
